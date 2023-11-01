@@ -1,0 +1,329 @@
+{
+	"products": [
+		{
+			"id": 1,
+			"image": [
+				{
+					"id": 1,
+					"src": "https://lipsum.app/id/1/250x210"
+				},
+				{
+					"id": 2,
+					"src": "https://lipsum.app/id/2/250x210"
+				}
+			],
+			"name": "Bebedouro Elétrico",
+			"slug": "bebedouro-eletrico",
+			"category": {
+				"id": 1,
+				"name": "Bebedouros"
+			},
+			"tag": [
+				{
+					"id": 1,
+					"name": "Água Fria"
+				},
+				{
+					"id": 2,
+					"name": "Água Quente"
+				}
+			],
+			"text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam amet perferendis distinctio, eum voluptate modi maiores nostrum dolorem asperiores hic, sint fuga unde ex aperiam nam! Illum quia excepturi in.",
+			"pdf": "../src/assets/pdf/sample.pdf"
+		},
+		{
+			"id": 2,
+			"image": [
+				{
+					"id": 1,
+					"src": "https://lipsum.app/id/6/250x210"
+				},
+				{
+					"id": 2,
+					"src": "https://lipsum.app/id/7/250x210"
+				}
+			],
+			"name": "Climatizador de Ar",
+			"slug": "climatizador-de-ar",
+			"category": {
+				"id": 2,
+				"name": "Climatizadores"
+			},
+			"tag": [
+				{
+					"id": 3,
+					"name": "Climatização"
+				},
+				{
+					"id": 4,
+					"name": "Econômico"
+				}
+			],
+			"text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam amet perferendis distinctio, eum voluptate modi maiores nostrum dolorem asperiores hic, sint fuga unde ex aperiam nam! Illum quia excepturi in."
+		},
+		{
+			"id": 3,
+			"image": [
+				{
+					"id": 1,
+					"src": "https://lipsum.app/id/77/250x210"
+				},
+				{
+					"id": 2,
+					"src": "https://lipsum.app/id/88/250x210"
+				}
+			],
+			"name": "Purificador de Água",
+			"slug": "purificador-de-agua",
+			"category": {
+				"id": 3,
+				"name": "Purificadores"
+			},
+			"tag": [
+				{
+					"id": 5,
+					"name": "Água Limpa"
+				},
+				{
+					"id": 6,
+					"name": "Filtragem"
+				}
+			],
+			"text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam amet perferendis distinctio, eum voluptate modi maiores nostrum dolorem asperiores hic, sint fuga unde ex aperiam nam! Illum quia excepturi in."
+		},
+		{
+			"id": 4,
+			"image": [
+				{
+					"id": 1,
+					"src": "https://lipsum.app/id/25/250x210"
+				},
+				{
+					"id": 2,
+					"src": "https://lipsum.app/id/33/250x210"
+				}
+			],
+			"name": "Bebedouro de Mesa",
+			"slug": "bebedouro-de-mesa",
+			"category": {
+				"id": 1,
+				"name": "Bebedouros"
+			},
+			"tag": [
+				{
+					"id": 1,
+					"name": "Água Fria"
+				}
+			],
+			"text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam amet perferendis distinctio, eum voluptate modi maiores nostrum dolorem asperiores hic, sint fuga unde ex aperiam nam! Illum quia excepturi in."
+		},
+		{
+			"id": 5,
+			"image": [
+				{
+					"id": 1,
+					"src": "https://lipsum.app/id/55/250x210"
+				},
+				{
+					"id": 2,
+					"src": "https://lipsum.app/id/44/250x210"
+				}
+			],
+			"name": "Climatizador Portátil",
+			"slug": "climatizador-portatil",
+			"category": {
+				"id": 2,
+				"name": "Climatizadores"
+			},
+			"tag": [
+				{
+					"id": 4,
+					"name": "Econômico"
+				}
+			],
+			"text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam amet perferendis distinctio, eum voluptate modi maiores nostrum dolorem asperiores hic, sint fuga unde ex aperiam nam! Illum quia excepturi in."
+		},
+		{
+			"id": 6,
+			"image": [
+				{
+					"id": 1,
+					"src": "https://lipsum.app/id/4/250x210"
+				},
+				{
+					"id": 2,
+					"src": "https://lipsum.app/id/10/250x210"
+				}
+			],
+			"name": "Purificador Compacto",
+			"slug": "purificador-compacto",
+			"category": {
+				"id": 3,
+				"name": "Purificadores"
+			},
+			"tag": [
+				{
+					"id": 6,
+					"name": "Filtragem"
+				}
+			],
+			"text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam amet perferendis distinctio, eum voluptate modi maiores nostrum dolorem asperiores hic, sint fuga unde ex aperiam nam! Illum quia excepturi in."
+		},
+		{
+			"id": 7,
+			"image": [
+				{
+					"id": 1,
+					"src": "https://lipsum.app/id/14/250x210"
+				},
+				{
+					"id": 2,
+					"src": "https://lipsum.app/id/16/250x210"
+				}
+			],
+			"name": "Bebedouro de Parede",
+			"slug": "bebedouro-de-parede",
+			"category": {
+				"id": 1,
+				"name": "Bebedouros"
+			},
+			"tag": [
+				{
+					"id": 1,
+					"name": "Água Fria"
+				}
+			],
+			"text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam amet perferendis distinctio, eum voluptate modi maiores nostrum dolorem asperiores hic, sint fuga unde ex aperiam nam! Illum quia excepturi in."
+		},
+		{
+			"id": 8,
+			"image": [
+				{
+					"id": 1,
+					"src": "https://lipsum.app/id/11/250x210"
+				},
+				{
+					"id": 2,
+					"src": "https://lipsum.app/id/22/250x210"
+				}
+			],
+			"name": "Climatizador de Torre",
+			"slug": "climatizador-de-torre",
+			"category": {
+				"id": 2,
+				"name": "Climatizadores"
+			},
+			"tag": [
+				{
+					"id": 3,
+					"name": "Climatização"
+				}
+			],
+			"text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam amet perferendis distinctio, eum voluptate modi maiores nostrum dolorem asperiores hic, sint fuga unde ex aperiam nam! Illum quia excepturi in."
+		},
+		{
+			"id": 9,
+			"image": [
+				{
+					"id": 1,
+					"src": "https://lipsum.app/id/45/250x210"
+				},
+				{
+					"id": 2,
+					"src": "https://lipsum.app/id/56/250x210"
+				}
+			],
+			"name": "Purificador de Bancada",
+			"slug": "purificador-de-bancada",
+			"category": {
+				"id": 3,
+				"name": "Purificadores"
+			},
+			"tag": [
+				{
+					"id": 5,
+					"name": "Água Limpa"
+				}
+			],
+			"text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam amet perferendis distinctio, eum voluptate modi maiores nostrum dolorem asperiores hic, sint fuga unde ex aperiam nam! Illum quia excepturi in."
+		},
+		{
+			"id": 10,
+			"image": [
+				{
+					"id": 1,
+					"src": "https://lipsum.app/id/12/250x210"
+				},
+				{
+					"id": 2,
+					"src": "https://lipsum.app/id/32/250x210"
+				}
+			],
+			"name": "Bebedouro Industrial",
+			"slug": "bebedouro-industrial",
+			"category": {
+				"id": 1,
+				"name": "Bebedouros"
+			},
+			"tag": [
+				{
+					"id": 2,
+					"name": "Água Quente"
+				}
+			],
+			"text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam amet perferendis distinctio, eum voluptate modi maiores nostrum dolorem asperiores hic, sint fuga unde ex aperiam nam! Illum quia excepturi in."
+		},
+		{
+			"id": 11,
+			"image": [
+				{
+					"id": 1,
+					"src": "https://lipsum.app/id/8/250x210"
+				},
+				{
+					"id": 2,
+					"src": "https://lipsum.app/id/7/250x210"
+				}
+			],
+			"name": "Climatizador de Janela",
+			"slug": "climatizador-de-janela",
+			"category": {
+				"id": 2,
+				"name": "Climatizadores"
+			},
+			"tag": [
+				{
+					"id": 3,
+					"name": "Climatização"
+				}
+			],
+			"text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam amet perferendis distinctio, eum voluptate modi maiores nostrum dolorem asperiores hic, sint fuga unde ex aperiam nam! Illum quia excepturi in."
+		},
+		{
+			"id": 12,
+			"image": [
+				{
+					"id": 1,
+					"src": "https://lipsum.app/id/5/250x210"
+				},
+				{
+					"id": 2,
+					"src": "https://lipsum.app/id/3/250x210"
+				}
+			],
+			"name": "Purificador de Água Grande",
+			"slug": "purificador-de-agua-grande",
+			"category": {
+				"id": 3,
+				"name": "Purificadores"
+			},
+			"tag": [
+				{
+					"id": 6,
+					"name": "Filtragem"
+				}
+			],
+			"text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam amet perferendis distinctio, eum voluptate modi maiores nostrum dolorem asperiores hic, sint fuga unde ex aperiam nam! Illum quia excepturi in."
+		}
+	]
+}
